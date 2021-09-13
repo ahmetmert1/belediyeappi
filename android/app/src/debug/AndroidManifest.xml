@@ -1,0 +1,25 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.belediyeappi"
+    > 
+
+
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+
+    <!-- <activity android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+           android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+           android:exported="false"/> -->
+
+     <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyBpLbiMXKOW3Fv6j5ETgDX0zfOrd1ASeps"/>
+
+
+
+
+
+    
+</manifest>
