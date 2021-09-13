@@ -1,16 +1,41 @@
-# belediyeappi
+#  Martı Belediyesi
 
-A new Flutter project.
+<b>Martı Belediyesi App'i, Flutter ile yapılmış basit bir belediye uygulamasıdır.</b>
 
-## Getting Started
+<img src="belediyeappdata/kapak.PNG">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Uygulamanın Amacı
+Belediyelerin, vatandaşlara var olan hizmetlerini mobil uygulama aracılığıyla daha kolay ulaştırıp zamandan ve mekandan tasarruf sağlamaktır.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Anasayfa
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="belediyeappdata/anasayfa.PNG" width="250" height="500"> <img src="belediyeappdata/galerisayfa.PNG" width="250" height="500"> <img src="belediyeappdata/eczanesayfa.PNG" width="280" height="500"> 
+
+
+## Nasıl Kurulur?
+👉[APK Dosyası](https://github.com/ahmetmert1/agnocalculator/blob/master/app-release.apk)👈 'na tıklayarak indirimi tamamladıktan sonra telefonunuza kurup uygulamayı kullanabilirsiniz.
+
+
+ 
+# 💻 Teknolojiler 
+- Dart 
+- Flutter 
+- VS Code
+
+## Teknik Ayrıntılar
+
+Hava durumu güncel tutulmaktadır. API'den veri çekilmektedir.
+
+
+
+
+
+
+
+
+
+
+[Linkedin](https://www.linkedin.com/in/ahmet-mert-öz)
+
+[E-posta](ahmetmertoz11@gmail.com)
